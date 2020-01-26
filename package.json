@@ -21,7 +21,10 @@
   },
   "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.7.2",
+    "inquirer": "^6.3.1",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "jest": "^24.8.0"
